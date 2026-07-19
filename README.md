@@ -327,3 +327,4 @@ font-size:35px;
 
 
 }
+console.log("Honey Beddings Website Loaded");
